@@ -39,14 +39,13 @@
 <h3 align="letf">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaz10921&langs_count=8&theme=highcontrast" alt=izaz10921 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=izaz10921&show_icons=true&locale=en&theme=highcontrast" alt="izaz10921" /></p>
+
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=izaz10921&theme=highcontrast" alt="izaz10921" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 <div align="center">
-<a href="https://github.com/izaz10921">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=izaz10921&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izaz10921&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izaz10921&theme=2077" height="180em" />
@@ -54,4 +53,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izaz10921&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=izaz10921&theme=react"/>
+
