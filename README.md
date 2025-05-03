@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muvin Mohammad</h1>
 <h3 align="center">🚀 Full-Stack Web Developer</h3>
 <h3 align="center"> Passionate about crafting seamless user experiences with expertise in HTML, CSS, JavaScript (React, Next), and diverse database platforms.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izaz10921&label=Profile%20views&color=0e75b6&style=flat" alt="izaz10921" /> </p>
+<p align="left"> <img src="https://ibb.co.com/1YMKGWRy" /> </p>
 
 - 🔭 I’m currently working on **full-stack web development**
 - 👯 I’m looking to collaborate with **full-stack web development projects**
