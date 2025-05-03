@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **full-stack web development**
 - 👯 I’m looking to collaborate with **full-stack web development projects**
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS,Typescript**
 - 💬 Ask me about **web development**
 - 📫 How to reach me **muvin.mohammad2@gmail.com**
 - ⚡ Fun fact **I love coding**
