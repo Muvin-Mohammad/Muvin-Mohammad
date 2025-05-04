@@ -1,4 +1,4 @@
-<img src="https://ibb.co.com/1YMKGWRy" width="100%" />
+<img src="<img src="https://i.ibb.co.com/V8sxCwk/1719351586139.jpg" alt="1719351586139" border="0">" width="100%" />
 <h1 align="center">Hi 👋, I'm Muvin Mohammad</h1>
 <h3 align="center">🚀 Full-Stack Web Developer</h3>
 <h3 align="center"> Passionate about crafting seamless user experiences with expertise in HTML, CSS, JavaScript (React, Next), and diverse database platforms.</h3>
